@@ -10,7 +10,3 @@ wheels/
 
 .venv
 
-*.csv
-*.xlsx
-*.xlsm
-
